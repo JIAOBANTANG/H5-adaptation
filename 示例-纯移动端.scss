@@ -1,0 +1,6 @@
+@import 'reset.scss';
+@import 'vw.scss';
+div{
+  width: vw(120);
+  height: vw(120);
+}
